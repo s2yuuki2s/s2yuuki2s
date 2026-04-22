@@ -1,16 +1,17 @@
-<h1 align="center">Hi there 👋, I'm <Your Name></h1>
-<h3 align="center">Data Engineer | ETL Developer | Cloud & Big Data Enthusiast</h3>
+# Hi there 👋, I'm Dung
+
+## Data Engineering Intern | Learning ETL & Cloud Foundations
 
 ---
 
 ## 🚀 About Me
 
-- Data Engineer with experience in building scalable ETL/ELT pipelines
-- Skilled in AWS / GCP / Azure cloud data ecosystems
-- Love working with big data, distributed systems, and automation
-- Experienced in data modeling, warehousing, and real-time data streaming
-- Passionate about clean architecture, optimization, and problem-solving
-- Always learning new data tools and technologies
+- Currently interning as a Data Engineer
+- Good foundation in Python and SQL
+- Learning ETL fundamentals and cloud data ecosystems
+- Interested in data modeling and warehousing basics
+- Passionate about learning and building data pipelines
+- Always open to new challenges and opportunities
 
 ---
 
@@ -18,47 +19,36 @@
 
 ### 🧰 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,bash,scala,js" />
-</p>
+![Python, SQL](https://skillicons.dev/icons?i=python,mysql)
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### ☁️ Cloud & Big Data
+### ☁️ Cloud (Learning)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
-</p>
+![AWS](https://skillicons.dev/icons?i=aws)
 
-### ⚙️ Tools & Frameworks
+### ⚙️ Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux" />
-</p>
+![Git, Docker](https://skillicons.dev/icons?i=git,docker)
 
 ---
 
-## 📂 Featured Projects
+## 📚 Learning Goals
 
-- **Real-Time Data Pipeline with Kafka & Spark**
-- **Serverless ETL Pipeline on AWS (Lambda + S3 + Glue)**
-- **Data Warehouse Design using BigQuery or Snowflake**
-- **High-performance ETL with Airflow + DBT**
-- **Machine Learning Feature Engineering Pipeline**
+- AWS basics (S3, Glue, Lambda)
+- ETL/ELT pipelines
+- Data warehousing concepts
+- Docker basics
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://linkedin.com/in/quoc-dung-luong-929923254"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
-  <a href="mailto:luongquocdung6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45px"/></a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/quoc-dung-luong-929923254)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:luongquocdung6@gmail.com)
 
 ---
 
-<h3 align="center">⭐️ Thanks for visiting my GitHub profile!</h3>
+### ⭐️ Thanks for visiting my GitHub profile
