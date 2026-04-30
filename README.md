@@ -11,7 +11,7 @@ developer:
   alias: s2yuuki2s
   role: Data Engineering Intern
   location: Vietnam 🇻🇳
-  passion: [Distributed Systems, Data Quality, Automation]
+  passion: [Data Pipelines, Automation, Data Quality]
   status: 🟢 Open to Intern/Junior roles
 ```
 
@@ -37,17 +37,14 @@ developer:
 ---
 
 ### 📊 Engineering Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s2yuuki2s&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2yuuki2s&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s2yuuki2s&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 </p>
 
----
-
-### 🔭 Currently Exploring
-- 🧬 **dbt Core:** Orchestrating data transformations with software engineering best practices.
-- ⚡ **Rust for Data:** Investigating high-performance data processing with Polars/Rust.
-- ☁️ **AWS Certified Data Engineer Path:** Validating cloud infrastructure expertise.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2yuuki2s&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
