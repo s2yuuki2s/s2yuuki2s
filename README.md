@@ -44,14 +44,6 @@ developer:
 
 ---
 
-### 🐍 Contribution Journey
-<!-- This section uses the Github Snake game to visualize contributions. -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/s2yuuki2s/s2yuuki2s/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 🔭 Currently Exploring
 - 🧬 **dbt Core:** Orchestrating data transformations with software engineering best practices.
 - ⚡ **Rust for Data:** Investigating high-performance data processing with Polars/Rust.
