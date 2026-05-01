@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBydGZ6NjZpZnI0NmZ6emZ6emZ6emZ6emZ6emZ6emZ6emZ6emZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/dw67thWvufXGPfBXpM/giphy.gif" width="35"> Hello, I'm Dung!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F76D02&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Building+Scalable+Pipelines;Python+%2B+SQL+%2B+PySpark;Solving+Data+Puzzles;Turning+Raw+Data+into+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F76D02&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Python+%2B+SQL+%2B+DuckDB;Building+Data+Pipelines;Solving+Data+Puzzles;Turning+Raw+Data+into+Impact" alt="Typing SVG" />
 </p>
 
 ```yaml
@@ -11,7 +11,7 @@ developer:
   alias: s2yuuki2s
   role: Data Engineering Intern
   location: Vietnam 🇻🇳
-  passion: [Data Pipelines, Automation, Data Quality]
+  passion: [Data Pipelines, Automation, Analytics]
   status: 🟢 Open to Intern/Junior roles
 ```
 
@@ -19,7 +19,7 @@ developer:
 
 ### 🛠️ The Data Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,docker,aws,git,bash,linux,vscode,neovim,py,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sql,duckdb,bash,git,github&theme=dark" />
 </p>
 
 ---
