@@ -19,7 +19,8 @@ developer:
 
 ### 🛠️ The Data Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mssql,bash,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,bash,git,github&theme=dark" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" height="48" />
 </p>
 
 ---
