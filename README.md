@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBydGZ6NjZpZnI0NmZ6emZ6emZ6emZ6emZ6emZ6emZ6emZ6emZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/dw67thWvufXGPfBXpM/giphy.gif" width="35"> Hello, I'm Dung!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F76D02&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Python+%2B+SQL+Server;Building+Data+Pipelines;Solving+Data+Puzzles;Turning+Raw+Data+into+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F76D02&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Python+%2B+PostgreSQL;Building+Data+Pipelines;Solving+Data+Puzzles;Turning+Raw+Data+into+Impact" alt="Typing SVG" />
 </p>
 
 ```yaml
@@ -19,8 +19,7 @@ developer:
 
 ### 🛠️ The Data Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,git,github&theme=dark" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" height="48" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,bash,git,github&theme=dark" />
 </p>
 
 ---
