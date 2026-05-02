@@ -39,11 +39,11 @@ developer:
 ### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s2yuuki2s&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=s2yuuki2s&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2yuuki2s&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s2yuuki2s&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
